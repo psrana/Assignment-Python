@@ -1,3 +1,3 @@
-# Assingment Python
+# Python Assingment
 
-- Explore **"Assignment - Basics of Python.pdf"** file for full assignments
+- Explore **"Assignment - Basics of Python.pdf"** for full assignment
